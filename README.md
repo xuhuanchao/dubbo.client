@@ -1,0 +1,1 @@
+# dubbo practise client endpoint
